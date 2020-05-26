@@ -1,8 +1,8 @@
 # SwaggerSample
 
-O swagger cria uma documentação iterativa de sua API Restful.
+Projeto utilizando .NET Core 3.1 para a criação de uma API utilizando a ferramenta Swagger para documentação iterativa da mesma.
 
-Vídeo com o tutorial -> [PampaDevs - Criando uma API Restful com Swagger]()
+Vídeo com o tutorial: [PampaDevs - Criando uma API Restful com Swagger]()
 
 ### Requisitos
 * [**Visual Studio Community 2019**](https://visualstudio.microsoft.com/pt-br/downloads/)
