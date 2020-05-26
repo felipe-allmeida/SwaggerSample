@@ -5,9 +5,9 @@ Projeto utilizando .NET Core 3.1 para a criação de uma API utilizando a ferram
 Vídeo com o tutorial: [PampaDevs - Criando uma API Restful com Swagger]()
 
 ### Requisitos
-* [**Visual Studio Community 2019**](https://visualstudio.microsoft.com/pt-br/downloads/)
+* [Visual Studio Community 2019](https://visualstudio.microsoft.com/pt-br/downloads/)
 * [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1)
-* [**Swashbuckle.AspNetCore**](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-3.1&tabs=visual-studio).
+* [Swashbuckle.AspNetCore](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/getting-started-with-swashbuckle?view=aspnetcore-3.1&tabs=visual-studio).
 
 ### Rodando o projeto
 
