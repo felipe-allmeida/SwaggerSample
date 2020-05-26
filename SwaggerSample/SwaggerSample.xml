@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SwaggerSample</name>
+    </assembly>
+    <members>
+        <member name="T:SwaggerSample.Controllers.v1.ProductController">
+            <summary>
+            Api Product, retorna e adiciona produtos
+            </summary>
+        </member>
+        <member name="M:SwaggerSample.Controllers.v1.ProductController.GetProducts">
+            <summary>
+            Retorna a lista com todos os produtos
+            </summary>
+            <returns>products</returns>
+        </member>
+        <member name="M:SwaggerSample.Controllers.v1.ProductController.AddProduct(SwaggerSample.Models.Product)">
+             <summary>
+             Adiciona um novo produto
+             </summary>
+             <remarks>
+             Sample request:
+            
+                 POST /Todo
+                 {
+                    "id": 1,
+                    "name": "Item1",
+                    "isComplete": true
+                 }
+            
+             </remarks>
+             <param name="product">É um produto :D</param>
+        </member>
+    </members>
+</doc>
