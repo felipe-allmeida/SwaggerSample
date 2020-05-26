@@ -2,7 +2,7 @@
 
 Projeto utilizando .NET Core 3.1 para a criação de uma API utilizando a ferramenta Swagger para documentação iterativa da mesma.
 
-Vídeo com o tutorial: [PampaDevs - Criando uma API Restful com Swagger]()
+Vídeo com o tutorial: [PampaDevs - Criando uma API Restful com .NET Core 3.1 e Swagger]()
 
 ### Requisitos
 * [Visual Studio Community 2019](https://visualstudio.microsoft.com/pt-br/downloads/)
